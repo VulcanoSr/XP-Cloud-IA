@@ -1,5 +1,5 @@
 # XP-Cloud-IA
-Provisionamento de Recusros para a aplicação de SAC
+Provisionamento de Recursos para a aplicação de SAC
 Descrever a aplicação que sera implementada contendo os seguintes itens :
 1. Objetivo da aplicação
 2. Terá aplicação que fará processos batch no servidor ? Periodicidade ?
