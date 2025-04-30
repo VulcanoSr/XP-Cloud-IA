@@ -1,0 +1,20 @@
+MANAGE DATA BASES
+Selecionar qual Banco de Dados
+  •	SQL Database 
+  •	Azure Database for MySQL
+  •	Azure Database for PostgreSQL
+Criar um Banco de Dados SQL
+  Definir um nome único e representativo
+  Servidor:
+    1.	Selecionar um existente ou criar um novo.
+    2.	Para novo servidor:
+        o	Nome do servidor (único globalmente).
+        o	Nome de usuário do admin.
+        o	Senha forte (mín. 8 caracteres, incluindo letras, números e símbolos).
+        o	Localização (região mais próxima).
+
+Configuração de backup: definir tempo de rodizio e retenção
+Autenticação:
+  o	Microsoft Authentication
+  o	Microsoft Authentication + SQL Authentication 
+  o	SQL Authentication 
